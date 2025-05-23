@@ -1,5 +1,5 @@
 # codergkeiac
-Code via GKE Autopilot and ACM
+Code via GKE Autopilot and ACM.
 
 # Example tfvars
 
